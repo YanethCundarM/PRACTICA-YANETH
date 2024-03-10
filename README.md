@@ -21,3 +21,4 @@ git checkout jorgeleonel
 git checkout main
 git merge jorgeleonel
 git log (para revias secuencia de los id)
+es otra rama (la Dorada)
